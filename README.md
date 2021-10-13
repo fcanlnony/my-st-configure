@@ -1,5 +1,4 @@
-![2021-07-14 23-08-06屏幕截图](https://user-images.githubusercontent.com/76856769/125646006-168e18cb-595c-4dd6-93c7-346f71199994.png)
-
+![2021-10-13 15-07-27屏幕截图](https://user-images.githubusercontent.com/76856769/137085137-491335a3-d01a-4a03-9922-5ca8e3ed9028.png)
 字体需要：liberation-fonts（如果需要更改，请在config.def.h里面更改）                                                                       
                                                                                                                                    
 所用到的插件及地址：                                                                                                                   

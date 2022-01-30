@@ -1,5 +1,5 @@
 ![2021-10-13 15-07-27屏幕截图](https://user-images.githubusercontent.com/76856769/137085137-491335a3-d01a-4a03-9922-5ca8e3ed9028.png)
-st : https://st.suckless.org/
+st : https://st.suckless.org/                                                                                                                                       
 字体需要：liberation-fonts（如果需要更改，请在config.def.h里面更改）                                                                       
                                                                                                                                    
 所用到的插件及地址：                                                                                                                   
